@@ -1,0 +1,1 @@
+INSERT INTO "AUDDESA"."PRM_MALLA" (ID_MALLA, DS_MALLA, FE_CARGA, DS_PROYECTO) VALUES ('9', 'SQC_BS_ANUALES - Malla que ejecuta el proceso de Banca seguros Anuales ', TO_TIMESTAMP('2021-09-14 09:06:25.226000000', 'YYYY-MM-DD HH24:MI:SS.FF'), 'Banca Seguros Anuales')
